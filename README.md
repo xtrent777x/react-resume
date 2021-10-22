@@ -25,9 +25,6 @@
 A budget application for online and offline access. This will be great for everyday use and traveling when can be going in and out of service. You can set your balance and do any deposits of any amounts and deductions of any amounts. When connection is made again this will add seamlessly.
 
 ## Screenshots
-![Screen Shot 2021-10-15 at 5 48 29 PM](https://user-images.githubusercontent.com/84681402/137565365-10fd6cae-4b8a-469d-b22c-d6e826764600.png)
-![Screen Shot 2021-10-15 at 5 51 14 PM](https://user-images.githubusercontent.com/84681402/137565367-2779682d-8f7e-46bc-99b8-4aaa50cf38f2.png)
-![Screen Shot 2021-10-15 at 5 53 30 PM](https://user-images.githubusercontent.com/84681402/137565369-682aa2da-a1bb-4b66-acf7-207fffb3a8b5.png)
 
 ## Link
 
