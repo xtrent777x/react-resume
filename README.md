@@ -32,6 +32,8 @@ A budget application for online and offline access. This will be great for every
 
 ## Link
 
+https://xtrent777x.github.io/react-resume/
+
 ### Contact
 Email: xtrent777x@gmail.com
 GitHub: https://github.com/xtrent777x
