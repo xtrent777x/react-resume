@@ -26,7 +26,7 @@ A budget application for online and offline access. This will be great for every
 
 ## Screenshots
 ![Screen Shot 2021-10-24 at 3 50 09 PM](https://user-images.githubusercontent.com/84681402/138614354-42b45b7e-5364-4b4d-945e-257850da1720.png)
-![Screen Shot 2021-10-24 at 3 50 22 PM](https://user-images.githubusercontent.com/84681402/138614355-62792c65-c8cd-483e-9a2c-e856daece7ad.png)
+
 
 
 
