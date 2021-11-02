@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.js": "/react-resume/static/js/main.18181965.chunk.js",
+    "main.js.map": "/react-resume/static/js/main.18181965.chunk.js.map",
+    "runtime-main.js": "/react-resume/static/js/runtime-main.32257ec2.js",
+    "runtime-main.js.map": "/react-resume/static/js/runtime-main.32257ec2.js.map",
+    "static/js/2.4c1a3deb.chunk.js": "/react-resume/static/js/2.4c1a3deb.chunk.js",
+    "static/js/2.4c1a3deb.chunk.js.map": "/react-resume/static/js/2.4c1a3deb.chunk.js.map",
+    "index.html": "/react-resume/index.html",
+    "static/js/2.4c1a3deb.chunk.js.LICENSE.txt": "/react-resume/static/js/2.4c1a3deb.chunk.js.LICENSE.txt",
+    "static/media/DnD-Manager.daa3d33e.png": "/react-resume/static/media/DnD-Manager.daa3d33e.png",
+    "static/media/Food-Festival.64f20b6e.png": "/react-resume/static/media/Food-Festival.64f20b6e.png",
+    "static/media/Game-Go.71f4e263.png": "/react-resume/static/media/Game-Go.71f4e263.png",
+    "static/media/Photo-Port.54316331.png": "/react-resume/static/media/Photo-Port.54316331.png",
+    "static/media/Run-buddy.da52465f.png": "/react-resume/static/media/Run-buddy.da52465f.png",
+    "static/media/Weather-Stat.1a72591f.png": "/react-resume/static/media/Weather-Stat.1a72591f.png",
+    "static/media/cover-image.f074b5bf.jpeg": "/react-resume/static/media/cover-image.f074b5bf.jpeg",
+    "static/media/resume1.eb2e4f1f.png": "/react-resume/static/media/resume1.eb2e4f1f.png",
+    "static/media/resume2.6782bace.png": "/react-resume/static/media/resume2.6782bace.png",
+    "static/media/resume3.20c2a244.png": "/react-resume/static/media/resume3.20c2a244.png",
+    "static/media/resume4.e9d67e0e.png": "/react-resume/static/media/resume4.e9d67e0e.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.32257ec2.js",
+    "static/js/2.4c1a3deb.chunk.js",
+    "static/js/main.18181965.chunk.js"
+  ]
+}
