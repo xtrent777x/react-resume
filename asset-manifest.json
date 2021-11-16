@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "/react-resume/static/js/main.18181965.chunk.js",
-    "main.js.map": "/react-resume/static/js/main.18181965.chunk.js.map",
+    "main.js": "/react-resume/static/js/main.fe0901d7.chunk.js",
+    "main.js.map": "/react-resume/static/js/main.fe0901d7.chunk.js.map",
     "runtime-main.js": "/react-resume/static/js/runtime-main.32257ec2.js",
     "runtime-main.js.map": "/react-resume/static/js/runtime-main.32257ec2.js.map",
     "static/js/2.4c1a3deb.chunk.js": "/react-resume/static/js/2.4c1a3deb.chunk.js",
@@ -18,11 +18,12 @@
     "static/media/resume1.eb2e4f1f.png": "/react-resume/static/media/resume1.eb2e4f1f.png",
     "static/media/resume2.6782bace.png": "/react-resume/static/media/resume2.6782bace.png",
     "static/media/resume3.20c2a244.png": "/react-resume/static/media/resume3.20c2a244.png",
-    "static/media/resume4.e9d67e0e.png": "/react-resume/static/media/resume4.e9d67e0e.png"
+    "static/media/resume4.e9d67e0e.png": "/react-resume/static/media/resume4.e9d67e0e.png",
+    "static/media/salonMe.91f6e420.png": "/react-resume/static/media/salonMe.91f6e420.png"
   },
   "entrypoints": [
     "static/js/runtime-main.32257ec2.js",
     "static/js/2.4c1a3deb.chunk.js",
-    "static/js/main.18181965.chunk.js"
+    "static/js/main.fe0901d7.chunk.js"
   ]
 }
