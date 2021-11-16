@@ -5,11 +5,17 @@ import GameGo from "../../assets/project/Game-Go.png";
 import PhotPort from "../../assets/project/Photo-Port.png";
 import RunBuddy from "../../assets/project/Run-buddy.png";
 import WeatherStat from "../../assets/project/Weather-Stat.png";
+import SalonMe from "../../assets/project/salonMe.png";
 
 
 const Projects = () => (
   <div>
     <h1>My Completed Projects</h1>
+    <p>
+    <a href="https://github.com/dylanshoemaker/SalonMe">github repo</a> 
+    <img src={SalonMe} className="my-2" style={{ width: "40%" }} alt="cover" />
+    <a href="https://salonme.herokuapp.com/">Live Page</a> 
+    </p>
     <p>
     <a href="https://github.com/dylanshoemaker/dnd-manager">github repo</a> 
     <img src={DndManager} className="my-2" style={{ width: "40%" }} alt="cover" />
